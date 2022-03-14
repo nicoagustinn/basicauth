@@ -1,0 +1,3 @@
+In Unix-like systems, please use:
+g++ sha512.cpp main.cpp -o basAuth
+./basAuth
